@@ -4,6 +4,7 @@
 
 ## Description
 
+
 WeatherNow is a forecast weather app designed to deliver live weather updates with an emphasis on simplicity and user accessibility. It is developed using basic yet powerful web technologies - JavaScript, HTML, and CSS only. Leveraging real-time data through API calls, Weather Now guarantees the latest weather information right at your fingertips, requiring just location permission to tailor the experience to your current whereabouts.
 
 ## Features
